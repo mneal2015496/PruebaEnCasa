@@ -1,0 +1,24 @@
+[33mcommit f9e92d9fe68aebca971eb07a86560f035f2a960d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jose Lopez <jlopez-2018169@kinal.edu.gt>
+Date:   Tue Aug 20 07:43:40 2019 -0600
+
+    Vvavava
+
+<C:/Users/PROGRA~1/AppData/Local/Temp/K5yzr9_hola.docx> does not seem to be a docx file!
+[1mdiff --git a/hola.docx b/hola.docx[m
+[1mindex e69de29..bcd0848 100644[m
+[1m--- a/hola.docx[m
+[1m+++ b/hola.docx[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m                                                                       zazazaza[m
+
+[33mcommit 90986675af59594a7d42f4cbc26aa7622ef8239a[m
+Author: Jose Lopez <jlopez-2018169@kinal.edu.gt>
+Date:   Tue Aug 20 07:16:23 2019 -0600
+
+    Prueba loca
+
+[1mdiff --git a/hola.docx b/hola.docx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+<C:/Users/PROGRA~1/AppData/Local/Temp/hUQ30b_hola.docx> does not seem to be a docx file!
